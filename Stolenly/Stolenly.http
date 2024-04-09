@@ -1,0 +1,6 @@
+@Stolenly_HostAddress = http://localhost:5216
+
+GET {{Stolenly_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
